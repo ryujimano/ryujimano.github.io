@@ -1,0 +1,20 @@
+---
+layout: project       #important: don't change this
+title:  "Pong Project"
+date: 2016-08-06 00:00:00
+author: Ryuji Mano
+categories:
+- project             #important: leave this here
+img: project01.png #place image (600x450) with this name in /assets/img/project/
+
+carousel:
+- ../project01.png        #place image (1280x600) with this name in /assets/img/project/carousel/
+
+
+website: https://github.com/ryujimano/PongProject
+---
+#### Pong Project
+
+A recreation of Pong made in Unity.
+
+Language Used: C#

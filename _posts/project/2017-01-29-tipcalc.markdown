@@ -1,0 +1,21 @@
+---
+layout: project       #important: don't change this
+title:  "Tip Calculator"
+date: 2016-12-18 00:00:00
+author: Ryuji Mano
+categories:
+- project             #important: leave this here
+img: project03.png #place image (600x450) with this name in /assets/img/project/
+
+carousel:
+- project03.png        #place image (1280x600) with this name in /assets/img/project/carousel/
+
+
+website: https://github.com/ryujimano/TipCalculator
+---
+#### Tip Calculator
+
+A tip calculator for iOS using Swift.
+
+A simple tip calculator that can calculate the tip amount and the total amount of the bill that is entered by the user.
+The app also has features such as dark/light mode and animations.
