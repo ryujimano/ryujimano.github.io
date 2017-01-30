@@ -5,7 +5,7 @@
 title: Ryuji Mano
 description: "My personal website using the Solid theme with Jekyll"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+baseurl: "" #important: start with /
 url: "ryujimano.github.io"
 
 
