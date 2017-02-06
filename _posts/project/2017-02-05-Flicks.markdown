@@ -7,7 +7,9 @@ categories:
 - project             #important: leave this here
 img: project04.png #place image (600x450) with this name in /assets/img/project/
 carousel:
-- project4_1.png, project4_2.png, project4_3.png        #place image (1280x600) with this name in /assets/img/project/carousel/
+- project4_1.png
+- project4_2.png
+- project4_3.png        #place image (1280x600) with this name in /assets/img/project/carousel/
 website: http://github.com/ryujimano/Flicks
 ---
 #### Flicks
