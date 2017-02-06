@@ -1,0 +1,23 @@
+---
+layout: project       #important: don't change this
+title:  "Flicks"
+date: 2017-01-31 00:00:00
+author: Ryuji Mano
+categories:
+- project             #important: leave this here
+img: project04.png #place image (600x450) with this name in /assets/img/project/
+carousel:
+- ../project4_1.png, ../project4_2.png, ../project4_3.png        #place image (1280x600) with this name in /assets/img/project/carousel/
+website: http://github.com/ryujimano/Flicks
+---
+#### Flicks
+
+iOS App that Displays the Current Movie Showings
+
+Built using Swift
+
+
+<br/>
+This app shows all of the current movie showings using The Movie Database API and icons from <a href="https://iconmonstr.com">iconmonstr</a>.
+<br />
+All movies can be viewed by a collection view of posters or a table view of movies with descriptions.
